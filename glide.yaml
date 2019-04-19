@@ -1,0 +1,4 @@
+package: github.com/sqeven/go-ai
+import:
+- package: github.com/imroc/req
+  version: v0.1.8
